@@ -1,0 +1,10 @@
+Next class we were introduced with the idea of Binary. It was a new thing for me.
+Initially I thought it to be hard, but as she explained it was not that tough.
+To convert a decimal number to binary we have to first divide the given number by 2.
+Then record the remainder. We have to keep repeating the process with the quotient until it becomes zero. 
+To get the binary representation, we have to wrtie the remainders in reverse order. 
+We after that we were taught 2's complement. 
+What is Two's complement? -> "Two's complement is a mathematical operation on binary numbers used to represent signed(positive, negative, or zero) intergers in binary"(built.com)
+To find two's complement, we have to first write the positive binary equivalent, with a fixed bit-length(we were told to write 8-bit)
+Then we have to reverse all the bits, for example- all 0s to 1s and all 1s to 0s.
+The last step is to add 1 to the reversed binary number.
