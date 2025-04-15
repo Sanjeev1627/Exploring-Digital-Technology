@@ -1,0 +1,10 @@
+The next class we learned about the general sturcture of a sensor which consists of controller, system, and measurement. 
+A question was asked as,"Why do we write script?" The answer was to automate a process given and automation ensures that we work less or make the process easy.
+The key takeaways from that class were: Feedback- which is inherent in nature and engeneering system and basic building blocks of automation. 
+The next class we were taught how the network system works as in what is the process by which we use the network we are using and the data we receive.
+So, we got to know that the actual source of network can be satellite, cable, etc. 
+So assume the network is JIO. It will send the optical message to app chart and the app chart then send the message to servers(like Gmail). 
+The network process includes IP layer physical, Internet Protocol Address.
+We also got to know that magnetic disturbances do not disturb data travelling. Also, firewall is a way of hiding a network. 
+The whole network wors on server and client mode. Clients are remote processors requests of a computer network who receive services from a centralized server of a host computer for those requests.
+Also, routes are pathways that are walked out through different layers.
