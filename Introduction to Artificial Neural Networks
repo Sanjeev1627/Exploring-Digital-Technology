@@ -1,0 +1,14 @@
+The next class was a guest lecture by Dr. Bhanu Priya on artificial neural networks. The lecture was very interesting as it introduced us to a new concept. 
+The idea of artificial neural network comes from the biological neuron. 
+She describes some of the logic operators like AND, OR, etc. used in artificial neural networks. 
+AND generates output when both the inputs are present, OR generates output when either of the inputs are present. 
+She mentioned that for different kinds of logical operations, we can have different neuron circuit. 
+She then moved to the McCulloch and Pitts formulation.
+McCulloch-Pitts neuron is a foundational mathematical model of a biological neuron, representing a imple, binary-input, binary-output artifical neuron. 
+The issues in McCulloch-Pitts formulation are: 1) All the inputs are binary 2) Each input has the same contribution(i.e. no weights) 3) No learning.
+To counter this issues Rosenblatt, an American Psychologist came up with different perceptron. 
+The features of his perceptron are: 1) The inputs were not binary 2) Each input has different contribution 3) Better learning. 
+She then moved to how to train a network. It includes: 1) Splitting the data into train and test sets.
+2) Forward Pass- Giving the input and calculating activation at each layer for all the examples. 
+3) Estimating the loss- A measure of how poorly a network is predicting. 
+4) Backward Pass- Adjusting the weights to minimize the loss.
