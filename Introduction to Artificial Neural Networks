@@ -12,3 +12,4 @@ She then moved to how to train a network. It includes: 1) Splitting the data int
 2) Forward Pass- Giving the input and calculating activation at each layer for all the examples. 
 3) Estimating the loss- A measure of how poorly a network is predicting. 
 4) Backward Pass- Adjusting the weights to minimize the loss.
+It really helped me in getting a basic idea of neural networks. 
